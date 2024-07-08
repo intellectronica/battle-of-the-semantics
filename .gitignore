@@ -1,5 +1,6 @@
 .env
 data/
+lancedb/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
