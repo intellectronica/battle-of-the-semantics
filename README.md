@@ -7,3 +7,5 @@ GraphRag ( [microsoft.github.io/graphrag](https://microsoft.github.io/graphrag/)
 To compare both method, let's see what results we get when indexing and retrieving the text with both techniques.
 
 See [battle-of-the-semantics.ipynb](battle-of-the-semantics.ipynb)
+
+[![Watch the video](https://img.youtube.com/vi/Y2pwIrhboro/hqdefault.jpg)](https://youtu.be/Y2pwIrhboro)
